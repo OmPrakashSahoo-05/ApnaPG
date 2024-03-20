@@ -7,7 +7,6 @@ This app provides assisstance to you in searching for the PG Rooms at your prefe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -27,10 +26,6 @@ This app provides assisstance to you in searching for the PG Rooms at your prefe
 - Feature 1: Clear view of the room in the home page itself.
 - Feature 2: Option to view more about the room and register yourself.
 - Feature 3: Added search functionality.
-
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
