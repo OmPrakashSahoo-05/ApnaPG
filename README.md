@@ -30,3 +30,8 @@ This app provides assisstance to you in searching for the PG Rooms at your prefe
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![Screenshot 2024-04-02 210450](https://github.com/OmPrakashSahoo-05/ApnaPG/assets/78353350/012e48ab-7654-4336-b142-74667a7263e7)
+![Screenshot 2024-04-02 210709](https://github.com/OmPrakashSahoo-05/ApnaPG/assets/78353350/3d61e805-efac-45a6-84fe-1de69ce40d8f)
+
+
